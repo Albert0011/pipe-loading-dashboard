@@ -1,0 +1,3782 @@
+[
+  {
+    "nps": "1/8",
+    "nps_numeric": 0.125,
+    "od_mm": 10.3,
+    "wall_mm": 1.24,
+    "source_kg_m": 0.28,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/8",
+    "nps_numeric": 0.125,
+    "od_mm": 10.3,
+    "wall_mm": 3.15,
+    "source_kg_m": 0.56,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/8",
+    "nps_numeric": 0.125,
+    "od_mm": 10.3,
+    "wall_mm": 1.45,
+    "source_kg_m": 0.32,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/8",
+    "nps_numeric": 0.125,
+    "od_mm": 10.3,
+    "wall_mm": 1.73,
+    "source_kg_m": 0.37,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/8",
+    "nps_numeric": 0.125,
+    "od_mm": 10.3,
+    "wall_mm": 2.41,
+    "source_kg_m": 0.47,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/8",
+    "nps_numeric": 0.125,
+    "od_mm": 10.3,
+    "wall_mm": 1.73,
+    "source_kg_m": 0.37,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/8",
+    "nps_numeric": 0.125,
+    "od_mm": 10.3,
+    "wall_mm": 2.41,
+    "source_kg_m": 0.47,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/8",
+    "nps_numeric": 0.125,
+    "od_mm": 10.3,
+    "wall_mm": 4.83,
+    "source_kg_m": 0.65,
+    "material": "Carbon Steel",
+    "schedule": "XXS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/4",
+    "nps_numeric": 0.25,
+    "od_mm": 13.7,
+    "wall_mm": 1.65,
+    "source_kg_m": 0.49,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/4",
+    "nps_numeric": 0.25,
+    "od_mm": 13.7,
+    "wall_mm": 3.68,
+    "source_kg_m": 0.91,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/4",
+    "nps_numeric": 0.25,
+    "od_mm": 13.7,
+    "wall_mm": 1.85,
+    "source_kg_m": 0.54,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/4",
+    "nps_numeric": 0.25,
+    "od_mm": 13.7,
+    "wall_mm": 2.24,
+    "source_kg_m": 0.63,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/4",
+    "nps_numeric": 0.25,
+    "od_mm": 13.7,
+    "wall_mm": 3.02,
+    "source_kg_m": 0.8,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/4",
+    "nps_numeric": 0.25,
+    "od_mm": 13.7,
+    "wall_mm": 2.24,
+    "source_kg_m": 0.63,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/4",
+    "nps_numeric": 0.25,
+    "od_mm": 13.7,
+    "wall_mm": 3.02,
+    "source_kg_m": 0.8,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/4",
+    "nps_numeric": 0.25,
+    "od_mm": 13.7,
+    "wall_mm": 6.05,
+    "source_kg_m": 1.41,
+    "material": "Carbon Steel",
+    "schedule": "XXS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3/8",
+    "nps_numeric": 0.375,
+    "od_mm": 17.1,
+    "wall_mm": 1.65,
+    "source_kg_m": 0.63,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3/8",
+    "nps_numeric": 0.375,
+    "od_mm": 17.1,
+    "wall_mm": 4.01,
+    "source_kg_m": 1.29,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3/8",
+    "nps_numeric": 0.375,
+    "od_mm": 17.1,
+    "wall_mm": 1.85,
+    "source_kg_m": 0.7,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3/8",
+    "nps_numeric": 0.375,
+    "od_mm": 17.1,
+    "wall_mm": 2.31,
+    "source_kg_m": 0.84,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3/8",
+    "nps_numeric": 0.375,
+    "od_mm": 17.1,
+    "wall_mm": 3.2,
+    "source_kg_m": 1.1,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3/8",
+    "nps_numeric": 0.375,
+    "od_mm": 17.1,
+    "wall_mm": 2.31,
+    "source_kg_m": 0.84,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3/8",
+    "nps_numeric": 0.375,
+    "od_mm": 17.1,
+    "wall_mm": 3.2,
+    "source_kg_m": 1.1,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3/8",
+    "nps_numeric": 0.375,
+    "od_mm": 17.1,
+    "wall_mm": 6.4,
+    "source_kg_m": 1.69,
+    "material": "Carbon Steel",
+    "schedule": "XXS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/2",
+    "nps_numeric": 0.5,
+    "od_mm": 21.3,
+    "wall_mm": 2.11,
+    "source_kg_m": 1.0,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/2",
+    "nps_numeric": 0.5,
+    "od_mm": 21.3,
+    "wall_mm": 4.78,
+    "source_kg_m": 1.95,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/2",
+    "nps_numeric": 0.5,
+    "od_mm": 21.3,
+    "wall_mm": 2.41,
+    "source_kg_m": 1.12,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/2",
+    "nps_numeric": 0.5,
+    "od_mm": 21.3,
+    "wall_mm": 2.77,
+    "source_kg_m": 1.27,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/2",
+    "nps_numeric": 0.5,
+    "od_mm": 21.3,
+    "wall_mm": 1.65,
+    "source_kg_m": 0.8,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/2",
+    "nps_numeric": 0.5,
+    "od_mm": 21.3,
+    "wall_mm": 3.73,
+    "source_kg_m": 1.62,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/2",
+    "nps_numeric": 0.5,
+    "od_mm": 21.3,
+    "wall_mm": 2.77,
+    "source_kg_m": 1.27,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/2",
+    "nps_numeric": 0.5,
+    "od_mm": 21.3,
+    "wall_mm": 3.73,
+    "source_kg_m": 1.62,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/2",
+    "nps_numeric": 0.5,
+    "od_mm": 21.3,
+    "wall_mm": 7.47,
+    "source_kg_m": 2.55,
+    "material": "Carbon Steel",
+    "schedule": "XXS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3/4",
+    "nps_numeric": 0.75,
+    "od_mm": 26.7,
+    "wall_mm": 2.11,
+    "source_kg_m": 1.28,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3/4",
+    "nps_numeric": 0.75,
+    "od_mm": 26.7,
+    "wall_mm": 5.56,
+    "source_kg_m": 2.9,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3/4",
+    "nps_numeric": 0.75,
+    "od_mm": 26.7,
+    "wall_mm": 2.41,
+    "source_kg_m": 1.44,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3/4",
+    "nps_numeric": 0.75,
+    "od_mm": 26.7,
+    "wall_mm": 2.87,
+    "source_kg_m": 1.69,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3/4",
+    "nps_numeric": 0.75,
+    "od_mm": 26.7,
+    "wall_mm": 1.65,
+    "source_kg_m": 1.02,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3/4",
+    "nps_numeric": 0.75,
+    "od_mm": 26.7,
+    "wall_mm": 3.91,
+    "source_kg_m": 2.2,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3/4",
+    "nps_numeric": 0.75,
+    "od_mm": 26.7,
+    "wall_mm": 2.87,
+    "source_kg_m": 1.69,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3/4",
+    "nps_numeric": 0.75,
+    "od_mm": 26.7,
+    "wall_mm": 3.91,
+    "source_kg_m": 2.2,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3/4",
+    "nps_numeric": 0.75,
+    "od_mm": 26.7,
+    "wall_mm": 7.82,
+    "source_kg_m": 3.64,
+    "material": "Carbon Steel",
+    "schedule": "XXS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1",
+    "nps_numeric": 1.0,
+    "od_mm": 33.4,
+    "wall_mm": 2.77,
+    "source_kg_m": 2.09,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1",
+    "nps_numeric": 1.0,
+    "od_mm": 33.4,
+    "wall_mm": 6.35,
+    "source_kg_m": 4.24,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1",
+    "nps_numeric": 1.0,
+    "od_mm": 33.4,
+    "wall_mm": 2.9,
+    "source_kg_m": 2.18,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1",
+    "nps_numeric": 1.0,
+    "od_mm": 33.4,
+    "wall_mm": 3.38,
+    "source_kg_m": 2.5,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1",
+    "nps_numeric": 1.0,
+    "od_mm": 33.4,
+    "wall_mm": 1.65,
+    "source_kg_m": 1.29,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1",
+    "nps_numeric": 1.0,
+    "od_mm": 33.4,
+    "wall_mm": 4.55,
+    "source_kg_m": 3.24,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1",
+    "nps_numeric": 1.0,
+    "od_mm": 33.4,
+    "wall_mm": 3.38,
+    "source_kg_m": 2.5,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1",
+    "nps_numeric": 1.0,
+    "od_mm": 33.4,
+    "wall_mm": 4.55,
+    "source_kg_m": 3.24,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1",
+    "nps_numeric": 1.0,
+    "od_mm": 33.4,
+    "wall_mm": 9.09,
+    "source_kg_m": 5.45,
+    "material": "Carbon Steel",
+    "schedule": "XXS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1-1/4",
+    "nps_numeric": 1.25,
+    "od_mm": 42.2,
+    "wall_mm": 2.77,
+    "source_kg_m": 2.69,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1-1/4",
+    "nps_numeric": 1.25,
+    "od_mm": 42.2,
+    "wall_mm": 6.35,
+    "source_kg_m": 5.61,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1-1/4",
+    "nps_numeric": 1.25,
+    "od_mm": 42.2,
+    "wall_mm": 2.97,
+    "source_kg_m": 2.87,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1-1/4",
+    "nps_numeric": 1.25,
+    "od_mm": 42.2,
+    "wall_mm": 3.56,
+    "source_kg_m": 3.39,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1-1/4",
+    "nps_numeric": 1.25,
+    "od_mm": 42.2,
+    "wall_mm": 1.65,
+    "source_kg_m": 1.65,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1-1/4",
+    "nps_numeric": 1.25,
+    "od_mm": 42.2,
+    "wall_mm": 4.85,
+    "source_kg_m": 4.47,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1-1/4",
+    "nps_numeric": 1.25,
+    "od_mm": 42.2,
+    "wall_mm": 3.56,
+    "source_kg_m": 3.39,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1-1/4",
+    "nps_numeric": 1.25,
+    "od_mm": 42.2,
+    "wall_mm": 4.85,
+    "source_kg_m": 4.47,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1-1/4",
+    "nps_numeric": 1.25,
+    "od_mm": 42.2,
+    "wall_mm": 9.7,
+    "source_kg_m": 7.77,
+    "material": "Carbon Steel",
+    "schedule": "XXS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1-1/2",
+    "nps_numeric": 1.5,
+    "od_mm": 48.3,
+    "wall_mm": 2.77,
+    "source_kg_m": 3.11,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1-1/2",
+    "nps_numeric": 1.5,
+    "od_mm": 48.3,
+    "wall_mm": 7.14,
+    "source_kg_m": 7.25,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1-1/2",
+    "nps_numeric": 1.5,
+    "od_mm": 48.3,
+    "wall_mm": 3.18,
+    "source_kg_m": 3.5,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1-1/2",
+    "nps_numeric": 1.5,
+    "od_mm": 48.3,
+    "wall_mm": 3.68,
+    "source_kg_m": 4.05,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1-1/2",
+    "nps_numeric": 1.5,
+    "od_mm": 48.3,
+    "wall_mm": 1.65,
+    "source_kg_m": 1.9,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1-1/2",
+    "nps_numeric": 1.5,
+    "od_mm": 48.3,
+    "wall_mm": 5.08,
+    "source_kg_m": 5.41,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1-1/2",
+    "nps_numeric": 1.5,
+    "od_mm": 48.3,
+    "wall_mm": 3.68,
+    "source_kg_m": 4.05,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1-1/2",
+    "nps_numeric": 1.5,
+    "od_mm": 48.3,
+    "wall_mm": 5.08,
+    "source_kg_m": 5.41,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1-1/2",
+    "nps_numeric": 1.5,
+    "od_mm": 48.3,
+    "wall_mm": 10.15,
+    "source_kg_m": 9.55,
+    "material": "Carbon Steel",
+    "schedule": "XXS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "2",
+    "nps_numeric": 2.0,
+    "od_mm": 60.3,
+    "wall_mm": 2.77,
+    "source_kg_m": 3.93,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "2",
+    "nps_numeric": 2.0,
+    "od_mm": 60.3,
+    "wall_mm": 8.74,
+    "source_kg_m": 11.11,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "2",
+    "nps_numeric": 2.0,
+    "od_mm": 60.3,
+    "wall_mm": 3.18,
+    "source_kg_m": 4.48,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "2",
+    "nps_numeric": 2.0,
+    "od_mm": 60.3,
+    "wall_mm": 3.91,
+    "source_kg_m": 5.44,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "2",
+    "nps_numeric": 2.0,
+    "od_mm": 60.3,
+    "wall_mm": 1.65,
+    "source_kg_m": 2.39,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "2",
+    "nps_numeric": 2.0,
+    "od_mm": 60.3,
+    "wall_mm": 5.54,
+    "source_kg_m": 7.48,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "2",
+    "nps_numeric": 2.0,
+    "od_mm": 60.3,
+    "wall_mm": 3.91,
+    "source_kg_m": 5.44,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "2",
+    "nps_numeric": 2.0,
+    "od_mm": 60.3,
+    "wall_mm": 5.54,
+    "source_kg_m": 7.48,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "2",
+    "nps_numeric": 2.0,
+    "od_mm": 60.3,
+    "wall_mm": 11.07,
+    "source_kg_m": 13.44,
+    "material": "Carbon Steel",
+    "schedule": "XXS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "2-1/2",
+    "nps_numeric": 2.5,
+    "od_mm": 73.0,
+    "wall_mm": 3.05,
+    "source_kg_m": 5.26,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "2-1/2",
+    "nps_numeric": 2.5,
+    "od_mm": 73.0,
+    "wall_mm": 9.53,
+    "source_kg_m": 14.92,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "2-1/2",
+    "nps_numeric": 2.5,
+    "od_mm": 73.0,
+    "wall_mm": 4.78,
+    "source_kg_m": 8.04,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "2-1/2",
+    "nps_numeric": 2.5,
+    "od_mm": 73.0,
+    "wall_mm": 5.16,
+    "source_kg_m": 8.63,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "2-1/2",
+    "nps_numeric": 2.5,
+    "od_mm": 73.0,
+    "wall_mm": 2.11,
+    "source_kg_m": 3.69,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "2-1/2",
+    "nps_numeric": 2.5,
+    "od_mm": 73.0,
+    "wall_mm": 7.01,
+    "source_kg_m": 11.41,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "2-1/2",
+    "nps_numeric": 2.5,
+    "od_mm": 73.0,
+    "wall_mm": 5.16,
+    "source_kg_m": 8.63,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "2-1/2",
+    "nps_numeric": 2.5,
+    "od_mm": 73.0,
+    "wall_mm": 7.01,
+    "source_kg_m": 11.41,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "2-1/2",
+    "nps_numeric": 2.5,
+    "od_mm": 73.0,
+    "wall_mm": 14.02,
+    "source_kg_m": 20.39,
+    "material": "Carbon Steel",
+    "schedule": "XXS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3",
+    "nps_numeric": 3.0,
+    "od_mm": 88.9,
+    "wall_mm": 3.05,
+    "source_kg_m": 6.46,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3",
+    "nps_numeric": 3.0,
+    "od_mm": 88.9,
+    "wall_mm": 11.13,
+    "source_kg_m": 21.35,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3",
+    "nps_numeric": 3.0,
+    "od_mm": 88.9,
+    "wall_mm": 4.78,
+    "source_kg_m": 9.92,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3",
+    "nps_numeric": 3.0,
+    "od_mm": 88.9,
+    "wall_mm": 5.49,
+    "source_kg_m": 11.29,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3",
+    "nps_numeric": 3.0,
+    "od_mm": 88.9,
+    "wall_mm": 2.11,
+    "source_kg_m": 4.52,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3",
+    "nps_numeric": 3.0,
+    "od_mm": 88.9,
+    "wall_mm": 7.62,
+    "source_kg_m": 15.27,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3",
+    "nps_numeric": 3.0,
+    "od_mm": 88.9,
+    "wall_mm": 5.49,
+    "source_kg_m": 11.29,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3",
+    "nps_numeric": 3.0,
+    "od_mm": 88.9,
+    "wall_mm": 7.62,
+    "source_kg_m": 15.27,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3",
+    "nps_numeric": 3.0,
+    "od_mm": 88.9,
+    "wall_mm": 15.24,
+    "source_kg_m": 27.68,
+    "material": "Carbon Steel",
+    "schedule": "XXS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3-1/2",
+    "nps_numeric": 3.5,
+    "od_mm": 101.6,
+    "wall_mm": 3.05,
+    "source_kg_m": 7.41,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3-1/2",
+    "nps_numeric": 3.5,
+    "od_mm": 101.6,
+    "wall_mm": 4.78,
+    "source_kg_m": 11.41,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3-1/2",
+    "nps_numeric": 3.5,
+    "od_mm": 101.6,
+    "wall_mm": 5.74,
+    "source_kg_m": 13.57,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3-1/2",
+    "nps_numeric": 3.5,
+    "od_mm": 101.6,
+    "wall_mm": 2.11,
+    "source_kg_m": 5.18,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3-1/2",
+    "nps_numeric": 3.5,
+    "od_mm": 101.6,
+    "wall_mm": 8.08,
+    "source_kg_m": 18.64,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3-1/2",
+    "nps_numeric": 3.5,
+    "od_mm": 101.6,
+    "wall_mm": 5.74,
+    "source_kg_m": 13.57,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "3-1/2",
+    "nps_numeric": 3.5,
+    "od_mm": 101.6,
+    "wall_mm": 8.08,
+    "source_kg_m": 18.64,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "4",
+    "nps_numeric": 4.0,
+    "od_mm": 114.3,
+    "wall_mm": 3.05,
+    "source_kg_m": 8.37,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "4",
+    "nps_numeric": 4.0,
+    "od_mm": 114.3,
+    "wall_mm": 11.13,
+    "source_kg_m": 28.32,
+    "material": "Carbon Steel",
+    "schedule": "120",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "4",
+    "nps_numeric": 4.0,
+    "od_mm": 114.3,
+    "wall_mm": 13.49,
+    "source_kg_m": 33.54,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "4",
+    "nps_numeric": 4.0,
+    "od_mm": 114.3,
+    "wall_mm": 4.78,
+    "source_kg_m": 12.91,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "4",
+    "nps_numeric": 4.0,
+    "od_mm": 114.3,
+    "wall_mm": 6.02,
+    "source_kg_m": 16.08,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "4",
+    "nps_numeric": 4.0,
+    "od_mm": 114.3,
+    "wall_mm": 2.11,
+    "source_kg_m": 5.84,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "4",
+    "nps_numeric": 4.0,
+    "od_mm": 114.3,
+    "wall_mm": 8.56,
+    "source_kg_m": 22.32,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "4",
+    "nps_numeric": 4.0,
+    "od_mm": 114.3,
+    "wall_mm": 6.02,
+    "source_kg_m": 16.08,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "4",
+    "nps_numeric": 4.0,
+    "od_mm": 114.3,
+    "wall_mm": 8.56,
+    "source_kg_m": 22.32,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "4",
+    "nps_numeric": 4.0,
+    "od_mm": 114.3,
+    "wall_mm": 17.12,
+    "source_kg_m": 41.03,
+    "material": "Carbon Steel",
+    "schedule": "XXS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "5",
+    "nps_numeric": 5.0,
+    "od_mm": 141.3,
+    "wall_mm": 3.4,
+    "source_kg_m": 11.56,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "5",
+    "nps_numeric": 5.0,
+    "od_mm": 141.3,
+    "wall_mm": 12.7,
+    "source_kg_m": 40.28,
+    "material": "Carbon Steel",
+    "schedule": "120",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "5",
+    "nps_numeric": 5.0,
+    "od_mm": 141.3,
+    "wall_mm": 15.88,
+    "source_kg_m": 49.12,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "5",
+    "nps_numeric": 5.0,
+    "od_mm": 141.3,
+    "wall_mm": 6.55,
+    "source_kg_m": 21.77,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "5",
+    "nps_numeric": 5.0,
+    "od_mm": 141.3,
+    "wall_mm": 2.77,
+    "source_kg_m": 9.46,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "5",
+    "nps_numeric": 5.0,
+    "od_mm": 141.3,
+    "wall_mm": 9.53,
+    "source_kg_m": 30.97,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "5",
+    "nps_numeric": 5.0,
+    "od_mm": 141.3,
+    "wall_mm": 6.55,
+    "source_kg_m": 21.77,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "5",
+    "nps_numeric": 5.0,
+    "od_mm": 141.3,
+    "wall_mm": 9.53,
+    "source_kg_m": 30.97,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "5",
+    "nps_numeric": 5.0,
+    "od_mm": 141.3,
+    "wall_mm": 19.05,
+    "source_kg_m": 57.43,
+    "material": "Carbon Steel",
+    "schedule": "XXS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "6",
+    "nps_numeric": 6.0,
+    "od_mm": 168.3,
+    "wall_mm": 3.4,
+    "source_kg_m": 13.83,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "6",
+    "nps_numeric": 6.0,
+    "od_mm": 168.3,
+    "wall_mm": 14.27,
+    "source_kg_m": 54.21,
+    "material": "Carbon Steel",
+    "schedule": "120",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "6",
+    "nps_numeric": 6.0,
+    "od_mm": 168.3,
+    "wall_mm": 18.26,
+    "source_kg_m": 67.57,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "6",
+    "nps_numeric": 6.0,
+    "od_mm": 168.3,
+    "wall_mm": 7.11,
+    "source_kg_m": 28.26,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "6",
+    "nps_numeric": 6.0,
+    "od_mm": 168.3,
+    "wall_mm": 2.77,
+    "source_kg_m": 11.31,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "6",
+    "nps_numeric": 6.0,
+    "od_mm": 168.3,
+    "wall_mm": 10.97,
+    "source_kg_m": 42.56,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "6",
+    "nps_numeric": 6.0,
+    "od_mm": 168.3,
+    "wall_mm": 7.11,
+    "source_kg_m": 28.26,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "6",
+    "nps_numeric": 6.0,
+    "od_mm": 168.3,
+    "wall_mm": 10.97,
+    "source_kg_m": 42.56,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "6",
+    "nps_numeric": 6.0,
+    "od_mm": 168.3,
+    "wall_mm": 21.95,
+    "source_kg_m": 79.22,
+    "material": "Carbon Steel",
+    "schedule": "XXS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "8",
+    "nps_numeric": 8.0,
+    "od_mm": 219.1,
+    "wall_mm": 3.76,
+    "source_kg_m": 19.97,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "8",
+    "nps_numeric": 8.0,
+    "od_mm": 219.1,
+    "wall_mm": 15.09,
+    "source_kg_m": 75.92,
+    "material": "Carbon Steel",
+    "schedule": "100",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "8",
+    "nps_numeric": 8.0,
+    "od_mm": 219.1,
+    "wall_mm": 18.26,
+    "source_kg_m": 90.44,
+    "material": "Carbon Steel",
+    "schedule": "120",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "8",
+    "nps_numeric": 8.0,
+    "od_mm": 219.1,
+    "wall_mm": 20.62,
+    "source_kg_m": 100.93,
+    "material": "Carbon Steel",
+    "schedule": "140",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "8",
+    "nps_numeric": 8.0,
+    "od_mm": 219.1,
+    "wall_mm": 23.01,
+    "source_kg_m": 111.27,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "8",
+    "nps_numeric": 8.0,
+    "od_mm": 219.1,
+    "wall_mm": 6.35,
+    "source_kg_m": 33.32,
+    "material": "Carbon Steel",
+    "schedule": "20",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "8",
+    "nps_numeric": 8.0,
+    "od_mm": 219.1,
+    "wall_mm": 7.04,
+    "source_kg_m": 36.82,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "8",
+    "nps_numeric": 8.0,
+    "od_mm": 219.1,
+    "wall_mm": 8.18,
+    "source_kg_m": 42.55,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "8",
+    "nps_numeric": 8.0,
+    "od_mm": 219.1,
+    "wall_mm": 2.77,
+    "source_kg_m": 14.78,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "8",
+    "nps_numeric": 8.0,
+    "od_mm": 219.1,
+    "wall_mm": 10.31,
+    "source_kg_m": 53.09,
+    "material": "Carbon Steel",
+    "schedule": "60",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "8",
+    "nps_numeric": 8.0,
+    "od_mm": 219.1,
+    "wall_mm": 12.7,
+    "source_kg_m": 64.64,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "8",
+    "nps_numeric": 8.0,
+    "od_mm": 219.1,
+    "wall_mm": 8.18,
+    "source_kg_m": 42.55,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "8",
+    "nps_numeric": 8.0,
+    "od_mm": 219.1,
+    "wall_mm": 12.7,
+    "source_kg_m": 64.64,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "8",
+    "nps_numeric": 8.0,
+    "od_mm": 219.1,
+    "wall_mm": 22.23,
+    "source_kg_m": 107.93,
+    "material": "Carbon Steel",
+    "schedule": "XXS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "10",
+    "nps_numeric": 10.0,
+    "od_mm": 273.0,
+    "wall_mm": 4.19,
+    "source_kg_m": 27.78,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "10",
+    "nps_numeric": 10.0,
+    "od_mm": 273.0,
+    "wall_mm": 18.26,
+    "source_kg_m": 114.71,
+    "material": "Carbon Steel",
+    "schedule": "100",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "10",
+    "nps_numeric": 10.0,
+    "od_mm": 273.0,
+    "wall_mm": 21.44,
+    "source_kg_m": 133.01,
+    "material": "Carbon Steel",
+    "schedule": "120",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "10",
+    "nps_numeric": 10.0,
+    "od_mm": 273.0,
+    "wall_mm": 25.4,
+    "source_kg_m": 155.1,
+    "material": "Carbon Steel",
+    "schedule": "140",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "10",
+    "nps_numeric": 10.0,
+    "od_mm": 273.0,
+    "wall_mm": 28.58,
+    "source_kg_m": 172.27,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "10",
+    "nps_numeric": 10.0,
+    "od_mm": 273.0,
+    "wall_mm": 6.35,
+    "source_kg_m": 41.76,
+    "material": "Carbon Steel",
+    "schedule": "20",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "10",
+    "nps_numeric": 10.0,
+    "od_mm": 273.0,
+    "wall_mm": 7.8,
+    "source_kg_m": 51.01,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "10",
+    "nps_numeric": 10.0,
+    "od_mm": 273.0,
+    "wall_mm": 9.27,
+    "source_kg_m": 60.29,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "10",
+    "nps_numeric": 10.0,
+    "od_mm": 273.0,
+    "wall_mm": 3.4,
+    "source_kg_m": 22.61,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "10",
+    "nps_numeric": 10.0,
+    "od_mm": 273.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 81.53,
+    "material": "Carbon Steel",
+    "schedule": "60",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "10",
+    "nps_numeric": 10.0,
+    "od_mm": 273.0,
+    "wall_mm": 15.09,
+    "source_kg_m": 95.98,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "10",
+    "nps_numeric": 10.0,
+    "od_mm": 273.0,
+    "wall_mm": 9.27,
+    "source_kg_m": 60.29,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "10",
+    "nps_numeric": 10.0,
+    "od_mm": 273.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 81.53,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "10",
+    "nps_numeric": 10.0,
+    "od_mm": 273.0,
+    "wall_mm": 25.4,
+    "source_kg_m": 155.1,
+    "material": "Carbon Steel",
+    "schedule": "XXS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "12",
+    "nps_numeric": 12.0,
+    "od_mm": 323.9,
+    "wall_mm": 4.57,
+    "source_kg_m": 35.98,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "12",
+    "nps_numeric": 12.0,
+    "od_mm": 323.9,
+    "wall_mm": 21.44,
+    "source_kg_m": 159.87,
+    "material": "Carbon Steel",
+    "schedule": "100",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "12",
+    "nps_numeric": 12.0,
+    "od_mm": 323.9,
+    "wall_mm": 25.4,
+    "source_kg_m": 186.92,
+    "material": "Carbon Steel",
+    "schedule": "120",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "12",
+    "nps_numeric": 12.0,
+    "od_mm": 323.9,
+    "wall_mm": 28.58,
+    "source_kg_m": 208.08,
+    "material": "Carbon Steel",
+    "schedule": "140",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "12",
+    "nps_numeric": 12.0,
+    "od_mm": 323.9,
+    "wall_mm": 33.32,
+    "source_kg_m": 238.69,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "12",
+    "nps_numeric": 12.0,
+    "od_mm": 323.9,
+    "wall_mm": 6.35,
+    "source_kg_m": 49.71,
+    "material": "Carbon Steel",
+    "schedule": "20",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "12",
+    "nps_numeric": 12.0,
+    "od_mm": 323.9,
+    "wall_mm": 8.38,
+    "source_kg_m": 65.19,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "12",
+    "nps_numeric": 12.0,
+    "od_mm": 323.9,
+    "wall_mm": 10.31,
+    "source_kg_m": 79.71,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "12",
+    "nps_numeric": 12.0,
+    "od_mm": 323.9,
+    "wall_mm": 3.96,
+    "source_kg_m": 31.24,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "12",
+    "nps_numeric": 12.0,
+    "od_mm": 323.9,
+    "wall_mm": 14.27,
+    "source_kg_m": 108.93,
+    "material": "Carbon Steel",
+    "schedule": "60",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "12",
+    "nps_numeric": 12.0,
+    "od_mm": 323.9,
+    "wall_mm": 17.48,
+    "source_kg_m": 132.05,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "12",
+    "nps_numeric": 12.0,
+    "od_mm": 323.9,
+    "wall_mm": 9.53,
+    "source_kg_m": 73.86,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "12",
+    "nps_numeric": 12.0,
+    "od_mm": 323.9,
+    "wall_mm": 12.7,
+    "source_kg_m": 97.44,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "12",
+    "nps_numeric": 12.0,
+    "od_mm": 323.9,
+    "wall_mm": 25.4,
+    "source_kg_m": 186.92,
+    "material": "Carbon Steel",
+    "schedule": "XXS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "14",
+    "nps_numeric": 14.0,
+    "od_mm": 355.6,
+    "wall_mm": 6.35,
+    "source_kg_m": 54.69,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "14",
+    "nps_numeric": 14.0,
+    "od_mm": 355.6,
+    "wall_mm": 23.83,
+    "source_kg_m": 194.98,
+    "material": "Carbon Steel",
+    "schedule": "100",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "14",
+    "nps_numeric": 14.0,
+    "od_mm": 355.6,
+    "wall_mm": 27.79,
+    "source_kg_m": 224.66,
+    "material": "Carbon Steel",
+    "schedule": "120",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "14",
+    "nps_numeric": 14.0,
+    "od_mm": 355.6,
+    "wall_mm": 31.75,
+    "source_kg_m": 253.58,
+    "material": "Carbon Steel",
+    "schedule": "140",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "14",
+    "nps_numeric": 14.0,
+    "od_mm": 355.6,
+    "wall_mm": 35.71,
+    "source_kg_m": 281.72,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "14",
+    "nps_numeric": 14.0,
+    "od_mm": 355.6,
+    "wall_mm": 7.92,
+    "source_kg_m": 67.91,
+    "material": "Carbon Steel",
+    "schedule": "20",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "14",
+    "nps_numeric": 14.0,
+    "od_mm": 355.6,
+    "wall_mm": 9.53,
+    "source_kg_m": 81.33,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "14",
+    "nps_numeric": 14.0,
+    "od_mm": 355.6,
+    "wall_mm": 11.13,
+    "source_kg_m": 94.55,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "14",
+    "nps_numeric": 14.0,
+    "od_mm": 355.6,
+    "wall_mm": 3.96,
+    "source_kg_m": 34.34,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "14",
+    "nps_numeric": 14.0,
+    "od_mm": 355.6,
+    "wall_mm": 15.09,
+    "source_kg_m": 126.72,
+    "material": "Carbon Steel",
+    "schedule": "60",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "14",
+    "nps_numeric": 14.0,
+    "od_mm": 355.6,
+    "wall_mm": 19.05,
+    "source_kg_m": 158.11,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "14",
+    "nps_numeric": 14.0,
+    "od_mm": 355.6,
+    "wall_mm": 9.53,
+    "source_kg_m": 81.33,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "14",
+    "nps_numeric": 14.0,
+    "od_mm": 355.6,
+    "wall_mm": 12.7,
+    "source_kg_m": 107.4,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "16",
+    "nps_numeric": 16.0,
+    "od_mm": 406.4,
+    "wall_mm": 6.35,
+    "source_kg_m": 62.65,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "16",
+    "nps_numeric": 16.0,
+    "od_mm": 406.4,
+    "wall_mm": 26.19,
+    "source_kg_m": 245.57,
+    "material": "Carbon Steel",
+    "schedule": "100",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "16",
+    "nps_numeric": 16.0,
+    "od_mm": 406.4,
+    "wall_mm": 30.96,
+    "source_kg_m": 286.66,
+    "material": "Carbon Steel",
+    "schedule": "120",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "16",
+    "nps_numeric": 16.0,
+    "od_mm": 406.4,
+    "wall_mm": 36.53,
+    "source_kg_m": 333.21,
+    "material": "Carbon Steel",
+    "schedule": "140",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "16",
+    "nps_numeric": 16.0,
+    "od_mm": 406.4,
+    "wall_mm": 40.49,
+    "source_kg_m": 365.38,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "16",
+    "nps_numeric": 16.0,
+    "od_mm": 406.4,
+    "wall_mm": 7.92,
+    "source_kg_m": 77.83,
+    "material": "Carbon Steel",
+    "schedule": "20",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "16",
+    "nps_numeric": 16.0,
+    "od_mm": 406.4,
+    "wall_mm": 9.53,
+    "source_kg_m": 93.27,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "16",
+    "nps_numeric": 16.0,
+    "od_mm": 406.4,
+    "wall_mm": 12.7,
+    "source_kg_m": 123.31,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "16",
+    "nps_numeric": 16.0,
+    "od_mm": 406.4,
+    "wall_mm": 4.19,
+    "source_kg_m": 41.56,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "16",
+    "nps_numeric": 16.0,
+    "od_mm": 406.4,
+    "wall_mm": 16.66,
+    "source_kg_m": 160.13,
+    "material": "Carbon Steel",
+    "schedule": "60",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "16",
+    "nps_numeric": 16.0,
+    "od_mm": 406.4,
+    "wall_mm": 21.44,
+    "source_kg_m": 203.54,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "16",
+    "nps_numeric": 16.0,
+    "od_mm": 406.4,
+    "wall_mm": 9.53,
+    "source_kg_m": 93.27,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "16",
+    "nps_numeric": 16.0,
+    "od_mm": 406.4,
+    "wall_mm": 12.7,
+    "source_kg_m": 123.31,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "18",
+    "nps_numeric": 18.0,
+    "od_mm": 457.0,
+    "wall_mm": 6.35,
+    "source_kg_m": 70.57,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "18",
+    "nps_numeric": 18.0,
+    "od_mm": 457.0,
+    "wall_mm": 29.36,
+    "source_kg_m": 309.64,
+    "material": "Carbon Steel",
+    "schedule": "100",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "18",
+    "nps_numeric": 18.0,
+    "od_mm": 457.0,
+    "wall_mm": 34.93,
+    "source_kg_m": 363.58,
+    "material": "Carbon Steel",
+    "schedule": "120",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "18",
+    "nps_numeric": 18.0,
+    "od_mm": 457.0,
+    "wall_mm": 39.67,
+    "source_kg_m": 408.28,
+    "material": "Carbon Steel",
+    "schedule": "140",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "18",
+    "nps_numeric": 18.0,
+    "od_mm": 457.0,
+    "wall_mm": 45.24,
+    "source_kg_m": 459.39,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "18",
+    "nps_numeric": 18.0,
+    "od_mm": 457.0,
+    "wall_mm": 7.92,
+    "source_kg_m": 87.71,
+    "material": "Carbon Steel",
+    "schedule": "20",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "18",
+    "nps_numeric": 18.0,
+    "od_mm": 457.0,
+    "wall_mm": 11.13,
+    "source_kg_m": 122.38,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "18",
+    "nps_numeric": 18.0,
+    "od_mm": 457.0,
+    "wall_mm": 14.27,
+    "source_kg_m": 155.81,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "18",
+    "nps_numeric": 18.0,
+    "od_mm": 457.0,
+    "wall_mm": 4.19,
+    "source_kg_m": 46.79,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "18",
+    "nps_numeric": 18.0,
+    "od_mm": 457.0,
+    "wall_mm": 19.05,
+    "source_kg_m": 205.75,
+    "material": "Carbon Steel",
+    "schedule": "60",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "18",
+    "nps_numeric": 18.0,
+    "od_mm": 457.0,
+    "wall_mm": 23.83,
+    "source_kg_m": 254.57,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "18",
+    "nps_numeric": 18.0,
+    "od_mm": 457.0,
+    "wall_mm": 9.53,
+    "source_kg_m": 105.17,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "18",
+    "nps_numeric": 18.0,
+    "od_mm": 457.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 139.16,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "20",
+    "nps_numeric": 20.0,
+    "od_mm": 508.0,
+    "wall_mm": 6.35,
+    "source_kg_m": 78.56,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "20",
+    "nps_numeric": 20.0,
+    "od_mm": 508.0,
+    "wall_mm": 32.54,
+    "source_kg_m": 381.55,
+    "material": "Carbon Steel",
+    "schedule": "100",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "20",
+    "nps_numeric": 20.0,
+    "od_mm": 508.0,
+    "wall_mm": 38.1,
+    "source_kg_m": 441.52,
+    "material": "Carbon Steel",
+    "schedule": "120",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "20",
+    "nps_numeric": 20.0,
+    "od_mm": 508.0,
+    "wall_mm": 44.45,
+    "source_kg_m": 508.15,
+    "material": "Carbon Steel",
+    "schedule": "140",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "20",
+    "nps_numeric": 20.0,
+    "od_mm": 508.0,
+    "wall_mm": 50.01,
+    "source_kg_m": 564.85,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "20",
+    "nps_numeric": 20.0,
+    "od_mm": 508.0,
+    "wall_mm": 9.53,
+    "source_kg_m": 117.15,
+    "material": "Carbon Steel",
+    "schedule": "20",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "20",
+    "nps_numeric": 20.0,
+    "od_mm": 508.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 155.13,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "20",
+    "nps_numeric": 20.0,
+    "od_mm": 508.0,
+    "wall_mm": 15.09,
+    "source_kg_m": 183.43,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "20",
+    "nps_numeric": 20.0,
+    "od_mm": 508.0,
+    "wall_mm": 4.78,
+    "source_kg_m": 59.32,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "20",
+    "nps_numeric": 20.0,
+    "od_mm": 508.0,
+    "wall_mm": 20.62,
+    "source_kg_m": 247.84,
+    "material": "Carbon Steel",
+    "schedule": "60",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "20",
+    "nps_numeric": 20.0,
+    "od_mm": 508.0,
+    "wall_mm": 26.19,
+    "source_kg_m": 311.19,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "20",
+    "nps_numeric": 20.0,
+    "od_mm": 508.0,
+    "wall_mm": 9.53,
+    "source_kg_m": 117.15,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "20",
+    "nps_numeric": 20.0,
+    "od_mm": 508.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 155.13,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "22",
+    "nps_numeric": 22.0,
+    "od_mm": 559.0,
+    "wall_mm": 6.35,
+    "source_kg_m": 86.55,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "22",
+    "nps_numeric": 22.0,
+    "od_mm": 559.0,
+    "wall_mm": 34.93,
+    "source_kg_m": 451.45,
+    "material": "Carbon Steel",
+    "schedule": "100",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "22",
+    "nps_numeric": 22.0,
+    "od_mm": 559.0,
+    "wall_mm": 41.28,
+    "source_kg_m": 527.05,
+    "material": "Carbon Steel",
+    "schedule": "120",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "22",
+    "nps_numeric": 22.0,
+    "od_mm": 559.0,
+    "wall_mm": 47.63,
+    "source_kg_m": 600.67,
+    "material": "Carbon Steel",
+    "schedule": "140",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "22",
+    "nps_numeric": 22.0,
+    "od_mm": 559.0,
+    "wall_mm": 53.98,
+    "source_kg_m": 672.3,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "22",
+    "nps_numeric": 22.0,
+    "od_mm": 559.0,
+    "wall_mm": 9.53,
+    "source_kg_m": 129.14,
+    "material": "Carbon Steel",
+    "schedule": "20",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "22",
+    "nps_numeric": 22.0,
+    "od_mm": 559.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 171.1,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "22",
+    "nps_numeric": 22.0,
+    "od_mm": 559.0,
+    "wall_mm": 4.78,
+    "source_kg_m": 65.33,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "22",
+    "nps_numeric": 22.0,
+    "od_mm": 559.0,
+    "wall_mm": 22.23,
+    "source_kg_m": 294.27,
+    "material": "Carbon Steel",
+    "schedule": "60",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "22",
+    "nps_numeric": 22.0,
+    "od_mm": 559.0,
+    "wall_mm": 28.58,
+    "source_kg_m": 373.85,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "22",
+    "nps_numeric": 22.0,
+    "od_mm": 559.0,
+    "wall_mm": 9.53,
+    "source_kg_m": 129.14,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "22",
+    "nps_numeric": 22.0,
+    "od_mm": 559.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 171.1,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "24",
+    "nps_numeric": 24.0,
+    "od_mm": 610.0,
+    "wall_mm": 6.35,
+    "source_kg_m": 94.53,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "24",
+    "nps_numeric": 24.0,
+    "od_mm": 610.0,
+    "wall_mm": 38.89,
+    "source_kg_m": 547.74,
+    "material": "Carbon Steel",
+    "schedule": "100",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "24",
+    "nps_numeric": 24.0,
+    "od_mm": 610.0,
+    "wall_mm": 46.02,
+    "source_kg_m": 640.07,
+    "material": "Carbon Steel",
+    "schedule": "120",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "24",
+    "nps_numeric": 24.0,
+    "od_mm": 610.0,
+    "wall_mm": 52.37,
+    "source_kg_m": 720.19,
+    "material": "Carbon Steel",
+    "schedule": "140",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "24",
+    "nps_numeric": 24.0,
+    "od_mm": 610.0,
+    "wall_mm": 59.54,
+    "source_kg_m": 808.27,
+    "material": "Carbon Steel",
+    "schedule": "160",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "24",
+    "nps_numeric": 24.0,
+    "od_mm": 610.0,
+    "wall_mm": 9.53,
+    "source_kg_m": 141.12,
+    "material": "Carbon Steel",
+    "schedule": "20",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "24",
+    "nps_numeric": 24.0,
+    "od_mm": 610.0,
+    "wall_mm": 14.27,
+    "source_kg_m": 209.65,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "24",
+    "nps_numeric": 24.0,
+    "od_mm": 610.0,
+    "wall_mm": 17.48,
+    "source_kg_m": 255.43,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "24",
+    "nps_numeric": 24.0,
+    "od_mm": 610.0,
+    "wall_mm": 5.54,
+    "source_kg_m": 82.58,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "24",
+    "nps_numeric": 24.0,
+    "od_mm": 610.0,
+    "wall_mm": 24.61,
+    "source_kg_m": 355.28,
+    "material": "Carbon Steel",
+    "schedule": "60",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "24",
+    "nps_numeric": 24.0,
+    "od_mm": 610.0,
+    "wall_mm": 30.96,
+    "source_kg_m": 442.11,
+    "material": "Carbon Steel",
+    "schedule": "80",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "24",
+    "nps_numeric": 24.0,
+    "od_mm": 610.0,
+    "wall_mm": 9.53,
+    "source_kg_m": 141.12,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "24",
+    "nps_numeric": 24.0,
+    "od_mm": 610.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 187.07,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "26",
+    "nps_numeric": 26.0,
+    "od_mm": 660.0,
+    "wall_mm": 7.92,
+    "source_kg_m": 127.36,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "26",
+    "nps_numeric": 26.0,
+    "od_mm": 660.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 202.74,
+    "material": "Carbon Steel",
+    "schedule": "20",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "26",
+    "nps_numeric": 26.0,
+    "od_mm": 660.0,
+    "wall_mm": 9.53,
+    "source_kg_m": 152.88,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "26",
+    "nps_numeric": 26.0,
+    "od_mm": 660.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 202.74,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "28",
+    "nps_numeric": 28.0,
+    "od_mm": 711.0,
+    "wall_mm": 7.92,
+    "source_kg_m": 137.32,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "28",
+    "nps_numeric": 28.0,
+    "od_mm": 711.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 218.71,
+    "material": "Carbon Steel",
+    "schedule": "20",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "28",
+    "nps_numeric": 28.0,
+    "od_mm": 711.0,
+    "wall_mm": 15.88,
+    "source_kg_m": 272.23,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "28",
+    "nps_numeric": 28.0,
+    "od_mm": 711.0,
+    "wall_mm": 9.53,
+    "source_kg_m": 164.86,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "28",
+    "nps_numeric": 28.0,
+    "od_mm": 711.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 218.71,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "30",
+    "nps_numeric": 30.0,
+    "od_mm": 762.0,
+    "wall_mm": 7.92,
+    "source_kg_m": 147.29,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "30",
+    "nps_numeric": 30.0,
+    "od_mm": 762.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 234.68,
+    "material": "Carbon Steel",
+    "schedule": "20",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "30",
+    "nps_numeric": 30.0,
+    "od_mm": 762.0,
+    "wall_mm": 15.88,
+    "source_kg_m": 292.2,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "30",
+    "nps_numeric": 30.0,
+    "od_mm": 762.0,
+    "wall_mm": 6.35,
+    "source_kg_m": 118.34,
+    "material": "Carbon Steel",
+    "schedule": "5",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "30",
+    "nps_numeric": 30.0,
+    "od_mm": 762.0,
+    "wall_mm": 9.53,
+    "source_kg_m": 176.85,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "30",
+    "nps_numeric": 30.0,
+    "od_mm": 762.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 234.68,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "32",
+    "nps_numeric": 32.0,
+    "od_mm": 813.0,
+    "wall_mm": 7.92,
+    "source_kg_m": 157.25,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "32",
+    "nps_numeric": 32.0,
+    "od_mm": 813.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 250.65,
+    "material": "Carbon Steel",
+    "schedule": "20",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "32",
+    "nps_numeric": 32.0,
+    "od_mm": 813.0,
+    "wall_mm": 15.88,
+    "source_kg_m": 312.17,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "32",
+    "nps_numeric": 32.0,
+    "od_mm": 813.0,
+    "wall_mm": 17.48,
+    "source_kg_m": 342.94,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "32",
+    "nps_numeric": 32.0,
+    "od_mm": 813.0,
+    "wall_mm": 9.53,
+    "source_kg_m": 188.83,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "32",
+    "nps_numeric": 32.0,
+    "od_mm": 813.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 250.65,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "34",
+    "nps_numeric": 34.0,
+    "od_mm": 864.0,
+    "wall_mm": 7.92,
+    "source_kg_m": 167.21,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "34",
+    "nps_numeric": 34.0,
+    "od_mm": 864.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 266.63,
+    "material": "Carbon Steel",
+    "schedule": "20",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "34",
+    "nps_numeric": 34.0,
+    "od_mm": 864.0,
+    "wall_mm": 15.88,
+    "source_kg_m": 332.14,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "34",
+    "nps_numeric": 34.0,
+    "od_mm": 864.0,
+    "wall_mm": 17.48,
+    "source_kg_m": 364.92,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "34",
+    "nps_numeric": 34.0,
+    "od_mm": 864.0,
+    "wall_mm": 9.53,
+    "source_kg_m": 200.82,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "34",
+    "nps_numeric": 34.0,
+    "od_mm": 864.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 266.63,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "36",
+    "nps_numeric": 36.0,
+    "od_mm": 914.0,
+    "wall_mm": 7.92,
+    "source_kg_m": 176.97,
+    "material": "Carbon Steel",
+    "schedule": "10",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "36",
+    "nps_numeric": 36.0,
+    "od_mm": 914.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 282.29,
+    "material": "Carbon Steel",
+    "schedule": "20",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "36",
+    "nps_numeric": 36.0,
+    "od_mm": 914.0,
+    "wall_mm": 15.88,
+    "source_kg_m": 351.73,
+    "material": "Carbon Steel",
+    "schedule": "30",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "36",
+    "nps_numeric": 36.0,
+    "od_mm": 914.0,
+    "wall_mm": 19.05,
+    "source_kg_m": 420.45,
+    "material": "Carbon Steel",
+    "schedule": "40",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "36",
+    "nps_numeric": 36.0,
+    "od_mm": 914.0,
+    "wall_mm": 9.53,
+    "source_kg_m": 212.57,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "36",
+    "nps_numeric": 36.0,
+    "od_mm": 914.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 282.29,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "38",
+    "nps_numeric": 38.0,
+    "od_mm": 965.0,
+    "wall_mm": 9.53,
+    "source_kg_m": 224.56,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "38",
+    "nps_numeric": 38.0,
+    "od_mm": 965.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 298.26,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "40",
+    "nps_numeric": 40.0,
+    "od_mm": 1016.0,
+    "wall_mm": 9.53,
+    "source_kg_m": 236.54,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "40",
+    "nps_numeric": 40.0,
+    "od_mm": 1016.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 314.23,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "42",
+    "nps_numeric": 42.0,
+    "od_mm": 1067.0,
+    "wall_mm": 9.53,
+    "source_kg_m": 248.53,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "42",
+    "nps_numeric": 42.0,
+    "od_mm": 1067.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 330.21,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "44",
+    "nps_numeric": 44.0,
+    "od_mm": 1118.0,
+    "wall_mm": 9.53,
+    "source_kg_m": 260.52,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "44",
+    "nps_numeric": 44.0,
+    "od_mm": 1118.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 346.18,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "46",
+    "nps_numeric": 46.0,
+    "od_mm": 1168.0,
+    "wall_mm": 9.53,
+    "source_kg_m": 272.27,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "46",
+    "nps_numeric": 46.0,
+    "od_mm": 1168.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 361.84,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "48",
+    "nps_numeric": 48.0,
+    "od_mm": 1219.0,
+    "wall_mm": 9.53,
+    "source_kg_m": 284.25,
+    "material": "Carbon Steel",
+    "schedule": "STD",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "48",
+    "nps_numeric": 48.0,
+    "od_mm": 1219.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 377.81,
+    "material": "Carbon Steel",
+    "schedule": "XS",
+    "standard": "ASME B36.10M"
+  },
+  {
+    "nps": "1/8",
+    "nps_numeric": 0.125,
+    "od_mm": 10.3,
+    "wall_mm": 1.24,
+    "source_kg_m": 0.28,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1/8",
+    "nps_numeric": 0.125,
+    "od_mm": 10.3,
+    "wall_mm": 1.73,
+    "source_kg_m": 0.37,
+    "material": "Stainless Steel",
+    "schedule": "40S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1/8",
+    "nps_numeric": 0.125,
+    "od_mm": 10.3,
+    "wall_mm": 2.41,
+    "source_kg_m": 0.47,
+    "material": "Stainless Steel",
+    "schedule": "80S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1/4",
+    "nps_numeric": 0.25,
+    "od_mm": 13.7,
+    "wall_mm": 1.65,
+    "source_kg_m": 0.49,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1/4",
+    "nps_numeric": 0.25,
+    "od_mm": 13.7,
+    "wall_mm": 2.24,
+    "source_kg_m": 0.63,
+    "material": "Stainless Steel",
+    "schedule": "40S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1/4",
+    "nps_numeric": 0.25,
+    "od_mm": 13.7,
+    "wall_mm": 3.02,
+    "source_kg_m": 0.8,
+    "material": "Stainless Steel",
+    "schedule": "80S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "3/8",
+    "nps_numeric": 0.375,
+    "od_mm": 17.1,
+    "wall_mm": 1.65,
+    "source_kg_m": 0.63,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "3/8",
+    "nps_numeric": 0.375,
+    "od_mm": 17.1,
+    "wall_mm": 2.31,
+    "source_kg_m": 0.84,
+    "material": "Stainless Steel",
+    "schedule": "40S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "3/8",
+    "nps_numeric": 0.375,
+    "od_mm": 17.1,
+    "wall_mm": 3.2,
+    "source_kg_m": 1.1,
+    "material": "Stainless Steel",
+    "schedule": "80S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1/2",
+    "nps_numeric": 0.5,
+    "od_mm": 21.3,
+    "wall_mm": 2.11,
+    "source_kg_m": 1.0,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1/2",
+    "nps_numeric": 0.5,
+    "od_mm": 21.3,
+    "wall_mm": 2.77,
+    "source_kg_m": 1.27,
+    "material": "Stainless Steel",
+    "schedule": "40S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1/2",
+    "nps_numeric": 0.5,
+    "od_mm": 21.3,
+    "wall_mm": 1.65,
+    "source_kg_m": 0.8,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1/2",
+    "nps_numeric": 0.5,
+    "od_mm": 21.3,
+    "wall_mm": 3.73,
+    "source_kg_m": 1.62,
+    "material": "Stainless Steel",
+    "schedule": "80S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "3/4",
+    "nps_numeric": 0.75,
+    "od_mm": 26.7,
+    "wall_mm": 2.11,
+    "source_kg_m": 1.28,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "3/4",
+    "nps_numeric": 0.75,
+    "od_mm": 26.7,
+    "wall_mm": 2.87,
+    "source_kg_m": 1.69,
+    "material": "Stainless Steel",
+    "schedule": "40S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "3/4",
+    "nps_numeric": 0.75,
+    "od_mm": 26.7,
+    "wall_mm": 1.65,
+    "source_kg_m": 1.02,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "3/4",
+    "nps_numeric": 0.75,
+    "od_mm": 26.7,
+    "wall_mm": 3.91,
+    "source_kg_m": 2.2,
+    "material": "Stainless Steel",
+    "schedule": "80S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1",
+    "nps_numeric": 1.0,
+    "od_mm": 33.4,
+    "wall_mm": 2.77,
+    "source_kg_m": 2.09,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1",
+    "nps_numeric": 1.0,
+    "od_mm": 33.4,
+    "wall_mm": 3.38,
+    "source_kg_m": 2.5,
+    "material": "Stainless Steel",
+    "schedule": "40S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1",
+    "nps_numeric": 1.0,
+    "od_mm": 33.4,
+    "wall_mm": 1.65,
+    "source_kg_m": 1.29,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1",
+    "nps_numeric": 1.0,
+    "od_mm": 33.4,
+    "wall_mm": 4.55,
+    "source_kg_m": 3.24,
+    "material": "Stainless Steel",
+    "schedule": "80S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1-1/4",
+    "nps_numeric": 1.25,
+    "od_mm": 42.2,
+    "wall_mm": 2.77,
+    "source_kg_m": 2.69,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1-1/4",
+    "nps_numeric": 1.25,
+    "od_mm": 42.2,
+    "wall_mm": 3.56,
+    "source_kg_m": 3.39,
+    "material": "Stainless Steel",
+    "schedule": "40S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1-1/4",
+    "nps_numeric": 1.25,
+    "od_mm": 42.2,
+    "wall_mm": 1.65,
+    "source_kg_m": 1.65,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1-1/4",
+    "nps_numeric": 1.25,
+    "od_mm": 42.2,
+    "wall_mm": 4.85,
+    "source_kg_m": 4.47,
+    "material": "Stainless Steel",
+    "schedule": "80S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1-1/2",
+    "nps_numeric": 1.5,
+    "od_mm": 48.3,
+    "wall_mm": 2.77,
+    "source_kg_m": 3.11,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1-1/2",
+    "nps_numeric": 1.5,
+    "od_mm": 48.3,
+    "wall_mm": 3.68,
+    "source_kg_m": 4.05,
+    "material": "Stainless Steel",
+    "schedule": "40S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1-1/2",
+    "nps_numeric": 1.5,
+    "od_mm": 48.3,
+    "wall_mm": 1.65,
+    "source_kg_m": 1.9,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "1-1/2",
+    "nps_numeric": 1.5,
+    "od_mm": 48.3,
+    "wall_mm": 5.08,
+    "source_kg_m": 5.41,
+    "material": "Stainless Steel",
+    "schedule": "80S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "2",
+    "nps_numeric": 2.0,
+    "od_mm": 60.3,
+    "wall_mm": 2.77,
+    "source_kg_m": 3.93,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "2",
+    "nps_numeric": 2.0,
+    "od_mm": 60.3,
+    "wall_mm": 3.91,
+    "source_kg_m": 5.44,
+    "material": "Stainless Steel",
+    "schedule": "40S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "2",
+    "nps_numeric": 2.0,
+    "od_mm": 60.3,
+    "wall_mm": 1.65,
+    "source_kg_m": 2.39,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "2",
+    "nps_numeric": 2.0,
+    "od_mm": 60.3,
+    "wall_mm": 5.54,
+    "source_kg_m": 7.48,
+    "material": "Stainless Steel",
+    "schedule": "80S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "2-1/2",
+    "nps_numeric": 2.5,
+    "od_mm": 73.0,
+    "wall_mm": 3.05,
+    "source_kg_m": 5.26,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "2-1/2",
+    "nps_numeric": 2.5,
+    "od_mm": 73.0,
+    "wall_mm": 5.16,
+    "source_kg_m": 8.63,
+    "material": "Stainless Steel",
+    "schedule": "40S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "2-1/2",
+    "nps_numeric": 2.5,
+    "od_mm": 73.0,
+    "wall_mm": 2.11,
+    "source_kg_m": 3.69,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "2-1/2",
+    "nps_numeric": 2.5,
+    "od_mm": 73.0,
+    "wall_mm": 7.01,
+    "source_kg_m": 11.41,
+    "material": "Stainless Steel",
+    "schedule": "80S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "3",
+    "nps_numeric": 3.0,
+    "od_mm": 88.9,
+    "wall_mm": 3.05,
+    "source_kg_m": 6.46,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "3",
+    "nps_numeric": 3.0,
+    "od_mm": 88.9,
+    "wall_mm": 5.49,
+    "source_kg_m": 11.29,
+    "material": "Stainless Steel",
+    "schedule": "40S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "3",
+    "nps_numeric": 3.0,
+    "od_mm": 88.9,
+    "wall_mm": 2.11,
+    "source_kg_m": 4.52,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "3",
+    "nps_numeric": 3.0,
+    "od_mm": 88.9,
+    "wall_mm": 7.62,
+    "source_kg_m": 15.27,
+    "material": "Stainless Steel",
+    "schedule": "80S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "3-1/2",
+    "nps_numeric": 3.5,
+    "od_mm": 101.6,
+    "wall_mm": 3.05,
+    "source_kg_m": 7.41,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "3-1/2",
+    "nps_numeric": 3.5,
+    "od_mm": 101.6,
+    "wall_mm": 5.74,
+    "source_kg_m": 13.57,
+    "material": "Stainless Steel",
+    "schedule": "40S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "3-1/2",
+    "nps_numeric": 3.5,
+    "od_mm": 101.6,
+    "wall_mm": 2.11,
+    "source_kg_m": 5.18,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "3-1/2",
+    "nps_numeric": 3.5,
+    "od_mm": 101.6,
+    "wall_mm": 8.08,
+    "source_kg_m": 18.64,
+    "material": "Stainless Steel",
+    "schedule": "80S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "4",
+    "nps_numeric": 4.0,
+    "od_mm": 114.3,
+    "wall_mm": 3.05,
+    "source_kg_m": 8.37,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "4",
+    "nps_numeric": 4.0,
+    "od_mm": 114.3,
+    "wall_mm": 6.02,
+    "source_kg_m": 16.08,
+    "material": "Stainless Steel",
+    "schedule": "40S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "4",
+    "nps_numeric": 4.0,
+    "od_mm": 114.3,
+    "wall_mm": 2.11,
+    "source_kg_m": 5.84,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "4",
+    "nps_numeric": 4.0,
+    "od_mm": 114.3,
+    "wall_mm": 8.56,
+    "source_kg_m": 22.32,
+    "material": "Stainless Steel",
+    "schedule": "80S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "5",
+    "nps_numeric": 5.0,
+    "od_mm": 141.3,
+    "wall_mm": 3.4,
+    "source_kg_m": 11.56,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "5",
+    "nps_numeric": 5.0,
+    "od_mm": 141.3,
+    "wall_mm": 6.55,
+    "source_kg_m": 21.77,
+    "material": "Stainless Steel",
+    "schedule": "40S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "5",
+    "nps_numeric": 5.0,
+    "od_mm": 141.3,
+    "wall_mm": 2.77,
+    "source_kg_m": 9.46,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "5",
+    "nps_numeric": 5.0,
+    "od_mm": 141.3,
+    "wall_mm": 9.53,
+    "source_kg_m": 30.97,
+    "material": "Stainless Steel",
+    "schedule": "80S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "6",
+    "nps_numeric": 6.0,
+    "od_mm": 168.3,
+    "wall_mm": 3.4,
+    "source_kg_m": 13.83,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "6",
+    "nps_numeric": 6.0,
+    "od_mm": 168.3,
+    "wall_mm": 7.11,
+    "source_kg_m": 28.26,
+    "material": "Stainless Steel",
+    "schedule": "40S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "6",
+    "nps_numeric": 6.0,
+    "od_mm": 168.3,
+    "wall_mm": 2.77,
+    "source_kg_m": 11.31,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "6",
+    "nps_numeric": 6.0,
+    "od_mm": 168.3,
+    "wall_mm": 10.97,
+    "source_kg_m": 42.56,
+    "material": "Stainless Steel",
+    "schedule": "80S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "8",
+    "nps_numeric": 8.0,
+    "od_mm": 219.1,
+    "wall_mm": 3.76,
+    "source_kg_m": 19.97,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "8",
+    "nps_numeric": 8.0,
+    "od_mm": 219.1,
+    "wall_mm": 8.18,
+    "source_kg_m": 42.55,
+    "material": "Stainless Steel",
+    "schedule": "40S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "8",
+    "nps_numeric": 8.0,
+    "od_mm": 219.1,
+    "wall_mm": 2.77,
+    "source_kg_m": 14.78,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "8",
+    "nps_numeric": 8.0,
+    "od_mm": 219.1,
+    "wall_mm": 12.7,
+    "source_kg_m": 64.64,
+    "material": "Stainless Steel",
+    "schedule": "80S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "10",
+    "nps_numeric": 10.0,
+    "od_mm": 273.0,
+    "wall_mm": 4.19,
+    "source_kg_m": 27.78,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "10",
+    "nps_numeric": 10.0,
+    "od_mm": 273.0,
+    "wall_mm": 9.27,
+    "source_kg_m": 60.29,
+    "material": "Stainless Steel",
+    "schedule": "40S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "10",
+    "nps_numeric": 10.0,
+    "od_mm": 273.0,
+    "wall_mm": 3.4,
+    "source_kg_m": 22.61,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "10",
+    "nps_numeric": 10.0,
+    "od_mm": 273.0,
+    "wall_mm": 12.7,
+    "source_kg_m": 81.53,
+    "material": "Stainless Steel",
+    "schedule": "80S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "12",
+    "nps_numeric": 12.0,
+    "od_mm": 323.9,
+    "wall_mm": 4.57,
+    "source_kg_m": 35.98,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "12",
+    "nps_numeric": 12.0,
+    "od_mm": 323.9,
+    "wall_mm": 9.53,
+    "source_kg_m": 73.86,
+    "material": "Stainless Steel",
+    "schedule": "40S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "12",
+    "nps_numeric": 12.0,
+    "od_mm": 323.9,
+    "wall_mm": 3.96,
+    "source_kg_m": 31.24,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "12",
+    "nps_numeric": 12.0,
+    "od_mm": 323.9,
+    "wall_mm": 12.7,
+    "source_kg_m": 97.44,
+    "material": "Stainless Steel",
+    "schedule": "80S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "14",
+    "nps_numeric": 14.0,
+    "od_mm": 355.6,
+    "wall_mm": 4.78,
+    "source_kg_m": 41.36,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "14",
+    "nps_numeric": 14.0,
+    "od_mm": 355.6,
+    "wall_mm": 3.96,
+    "source_kg_m": 34.34,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "16",
+    "nps_numeric": 16.0,
+    "od_mm": 406.4,
+    "wall_mm": 4.78,
+    "source_kg_m": 47.34,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "16",
+    "nps_numeric": 16.0,
+    "od_mm": 406.4,
+    "wall_mm": 4.19,
+    "source_kg_m": 41.56,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "18",
+    "nps_numeric": 18.0,
+    "od_mm": 457.0,
+    "wall_mm": 4.78,
+    "source_kg_m": 53.31,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "18",
+    "nps_numeric": 18.0,
+    "od_mm": 457.0,
+    "wall_mm": 4.19,
+    "source_kg_m": 46.79,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "20",
+    "nps_numeric": 20.0,
+    "od_mm": 508.0,
+    "wall_mm": 5.54,
+    "source_kg_m": 68.65,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "20",
+    "nps_numeric": 20.0,
+    "od_mm": 508.0,
+    "wall_mm": 4.78,
+    "source_kg_m": 59.32,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "22",
+    "nps_numeric": 22.0,
+    "od_mm": 559.0,
+    "wall_mm": 5.54,
+    "source_kg_m": 75.62,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "22",
+    "nps_numeric": 22.0,
+    "od_mm": 559.0,
+    "wall_mm": 4.78,
+    "source_kg_m": 65.33,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "24",
+    "nps_numeric": 24.0,
+    "od_mm": 610.0,
+    "wall_mm": 6.35,
+    "source_kg_m": 94.53,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "24",
+    "nps_numeric": 24.0,
+    "od_mm": 610.0,
+    "wall_mm": 5.54,
+    "source_kg_m": 82.58,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "30",
+    "nps_numeric": 30.0,
+    "od_mm": 762.0,
+    "wall_mm": 7.92,
+    "source_kg_m": 147.29,
+    "material": "Stainless Steel",
+    "schedule": "10S",
+    "standard": "ASME B36.19M"
+  },
+  {
+    "nps": "30",
+    "nps_numeric": 30.0,
+    "od_mm": 762.0,
+    "wall_mm": 6.35,
+    "source_kg_m": 118.34,
+    "material": "Stainless Steel",
+    "schedule": "5S",
+    "standard": "ASME B36.19M"
+  }
+]
