@@ -11,7 +11,7 @@ class Settings:
     height_mm: float = 2395
     door_width_mm: float = 2340
     door_height_mm: float = 2292
-    payload_kg: float = 28750
+    payload_kg: float = 25000
     dunnage_kg: float = 500
     end_clearance_mm: float = 20
     side_clearance_mm: float = 50

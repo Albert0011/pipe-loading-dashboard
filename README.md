@@ -26,7 +26,7 @@ The Excel workbook remains useful as the familiar handover artifact. Use this da
 
 ## Scope and differences from Excel
 
-The supplied dataset contains 378 combinations across 36 nominal sizes: carbon steel through NPS 48 and stainless S-schedules through NPS 30. It is not exhaustive commercial availability or inventory. Sources appear in the application. Weights are calculated, not copied from the source weight column.
+The supplied dataset contains 378 combinations across 36 nominal sizes: carbon steel through NPS 48 and stainless S-schedules through NPS 30. It is not exhaustive commercial availability or inventory. Sources appear in the application. Weights are calculated, not copied from the source weight column. The default maximum planning payload is 25,000 kg, with 500 kg reserved for dunnage and securement; both assumptions remain editable.
 
 The dashboard compares square packing and both staggered orientations. It can improve on the earlier workbook's single staggered orientation, particularly for large pipes. Results can therefore differ from that workbook. It still does not solve the unrestricted global circle-packing problem. Clearances and payload use the same initial assumptions as Excel. A diagram shows geometry capacity, not an approved loading arrangement; partial-load support and securement require logistics review.
 

@@ -30,7 +30,7 @@ with st.sidebar:
     st.caption('Valid schedules update with material and size. Custom lengths are supported.')
     values=asdict(Settings())
     with st.expander('Container and loading assumptions'):
-        labels={'length_mm':'Internal length (mm)','width_mm':'Internal width (mm)','height_mm':'Internal height (mm)','door_width_mm':'Door width (mm)','door_height_mm':'Door height (mm)','payload_kg':'Maximum cargo payload (kg)','dunnage_kg':'Dunnage / securement (kg)','end_clearance_mm':'Total end clearance (mm)','side_clearance_mm':'Total side clearance (mm)','top_clearance_mm':'Total top clearance (mm)','gap_mm':'Gap between pipe surfaces (mm)'}
+        labels={'length_mm':'Internal length (mm)','width_mm':'Internal width (mm)','height_mm':'Internal height (mm)','door_width_mm':'Door width (mm)','door_height_mm':'Door height (mm)','payload_kg':'Maximum planning payload (kg)','dunnage_kg':'Dunnage / securement (kg)','end_clearance_mm':'Total end clearance (mm)','side_clearance_mm':'Total side clearance (mm)','top_clearance_mm':'Total top clearance (mm)','gap_mm':'Gap between pipe surfaces (mm)'}
         for key,value in values.items():
             values[key]=st.number_input(labels[key],min_value=0.0,value=float(value),step=10.0 if key!='gap_mm' else 1.0)
     st.caption('Default equipment: Hapag-Lloyd 40 ft standard example. Verify the booked unit.')
@@ -164,4 +164,4 @@ with tabs[4]:
 Chart data retained from the Excel assessment model. Dimensions are rounded as published in the supplier reference; confirm against the contractual standard and mill specification. Stainless B36.10 thicknesses can also be commercially available, but this catalogue currently exposes stainless S-schedules only. Source chart weight figures are not used in calculations.''')
     st.json(values)
 
-st.caption('Planning estimate for quotation support. Confirm a practical loading plan, actual equipment payload and route limits before dispatch.')
+st.caption('Planning estimate using a default 25,000 kg maximum payload. Confirm the actual equipment payload, route limits and practical loading plan before dispatch.')
