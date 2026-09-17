@@ -28,7 +28,7 @@ with st.sidebar:
     density=st.number_input('Material density (kg/m³)',min_value=1000.0,max_value=20000.0,value=7850.0 if material=='Carbon Steel' else 8000.0,step=10.0)
     packing=st.selectbox('Packing model',['Best regular pattern','Square'])
     st.caption('Valid schedules update with material and size. Custom lengths are supported.')
-    values=asdict(Settings())
+    values=asdict(Settings(payload_kg=25000))
     with st.expander('Container and loading assumptions'):
         labels={'length_mm':'Internal length (mm)','width_mm':'Internal width (mm)','height_mm':'Internal height (mm)','door_width_mm':'Door width (mm)','door_height_mm':'Door height (mm)','payload_kg':'Maximum planning payload (kg)','dunnage_kg':'Dunnage / securement (kg)','end_clearance_mm':'Total end clearance (mm)','side_clearance_mm':'Total side clearance (mm)','top_clearance_mm':'Total top clearance (mm)','gap_mm':'Gap between pipe surfaces (mm)'}
         for key,value in values.items():
